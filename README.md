@@ -1,26 +1,200 @@
-<h1 align="center">Hi 👋, I'm Chetan Nikam</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">👋 Hey, I'm Chetan Nikam</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chetan-1198" alt="chetan-1198" /></a> </p>
+<h3 align="center">
+🚀 Full-Stack Developer | 🛡️ Cybersecurity Enthusiast | 🤖 AI/ML Learner
+</h3>
 
-- 🔭 I’m currently working on [threat-intel-aggregator](https://github.com/Chetan-1198/threat-intel-aggregator.git)
-
-- 🌱 I’m currently learning **AIML, Cyber security**
-
-- 👯 I’m looking to collaborate on [sentinelshield](https://github.com/Chetan-1198/sentinelshield.git)
-
-- 🤝 I’m looking for help with [sairam-vastralay-v3](https://github.com/Chetan-1198/sairam-vastralay-v3.git)
-
-- 💬 Ask me about **Full stack Dev**
-
-- 📫 How to reach me **chetannikam1198@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/chetan nikam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chetan nikam" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/Chetan-1198">
+    <img src="https://komarev.com/ghpvc/?username=Chetan-1198&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/Chetan-1198?tab=followers">
+    <img src="https://img.shields.io/github/followers/Chetan-1198?label=Followers&style=flat" alt="GitHub Followers"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://openresty.org/" target="_blank" rel="noreferrer"> <img src="https://openresty.org/images/logo.png" alt="openresty" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chetan-1198&show_icons=true&locale=en&layout=compact" alt="chetan-1198" /></p>
+## 🧑‍💻 About Me
+
+I'm a passionate **Full-Stack Developer and Cybersecurity enthusiast** from India who enjoys building practical, secure, and scalable applications.
+
+* 🔭 Currently working on **AI-Powered Threat Intelligence & Cybersecurity Projects**
+* 🌱 Currently learning **Artificial Intelligence, Machine Learning & Cybersecurity**
+* 🛡️ Interested in **Threat Intelligence, OSINT, Web Security & Secure Application Development**
+* 💻 Experienced with **Frontend, Backend, Databases & REST APIs**
+* 🤝 Open to collaborating on **Cybersecurity, AI/ML and Full-Stack projects**
+* 💬 Ask me about **Full-Stack Development, Python, React, Node.js & Cybersecurity**
+* 📫 Reach me at **[chetannikam1198@gmail.com](mailto:chetannikam1198@gmail.com)**
+
+---
+
+## 🚀 Featured Projects
+
+### 🛡️ Threat Intel Aggregator
+
+AI-powered cybersecurity platform for collecting, processing and analyzing threat intelligence from multiple OSINT sources.
+
+**Tech:** Python • FastAPI • React • Machine Learning • OSINT APIs • PostgreSQL
+
+🔗 [View Project](https://github.com/Chetan-1198/threat-intel-aggregator)
+
+---
+
+### 🔥 SentinelShield
+
+Advanced intrusion detection and web protection system focused on identifying suspicious activity and improving application security.
+
+**Tech:** Python • Cybersecurity • Web Security • Threat Detection
+
+🔗 [View Project](https://github.com/Chetan-1198/sentinelshield)
+
+---
+
+### 🛍️ Sairam Vastralay
+
+A modern e-commerce application designed for online shopping with product management and user-friendly interfaces.
+
+**Tech:** HTML • CSS • JavaScript • React • Node.js • Database
+
+🔗 [View Project](https://github.com/Chetan-1198/sairam-vastralay-v3)
+
+---
+
+## 🧰 Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,html,css" />
+</p>
+
+### 🌐 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,vue,vite,html,css,javascript" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,spring" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
+</p>
+
+### 🛡️ Cybersecurity & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,aws,docker,git,github" />
+</p>
+
+### 📊 Data & AI/ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+</p>
+
+---
+
+## 🛡️ Cybersecurity Interests
+
+```text
+🔍 OSINT & Threat Intelligence
+🦠 Malware Analysis
+🎣 Phishing Detection
+🌐 Web Application Security
+🚨 Intrusion Detection
+🔐 Network Security
+🤖 AI for Cybersecurity
+📊 Security Monitoring
+```
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chetan-1198&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan-1198&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chetan-1198&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Chetan-1198&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chetan-1198&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="mailto:chetannikam1198@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/chetan-nikam/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Chetan-1198">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 💡 Current Focus
+
+```text
+┌──────────────────────────────────────────────┐
+│              CURRENTLY BUILDING              │
+├──────────────────────────────────────────────┤
+│ 🛡️ Cybersecurity Applications                │
+│ 🤖 AI-Powered Security Systems                │
+│ 🔍 OSINT Threat Intelligence                  │
+│ 🌐 Full-Stack Web Applications                │
+│ 📊 Machine Learning Solutions                 │
+└──────────────────────────────────────────────┘
+```
+
+---
+
+<h3 align="center">
+⚡ "Build. Secure. Innovate."
+</h3>
+
+<p align="center">
+⭐ Thanks for visiting my profile! ⭐
+</p>
